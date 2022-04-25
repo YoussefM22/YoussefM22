@@ -1,0 +1,7 @@
+if 500 then
+new := 80; :=
+old := new;
+else
+new := 70;
+old12 := new;
+end
